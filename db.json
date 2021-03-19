@@ -1,0 +1,130 @@
+{ 
+  "employees": [
+  {
+    "_id": "6054e71d6d283b3f72578f99",
+    "id": 1,
+    "isActive": true,
+    "age": 36,
+    "name": {
+      "first": "Robbins",
+      "last": "Reynolds"
+    },
+    "fullName": "Robbins Reynolds",
+    "company": "COMVOY",
+    "email": "robbins.reynolds@comvoy.ca",
+    "phone": 586444730
+  },
+  {
+    "_id": "6054e71d39f6f3542af3fda7",
+    "id": 2,
+    "isActive": true,
+    "age": 21,
+    "name": {
+      "first": "Julianne",
+      "last": "Baxter"
+    },
+    "fullName": "Julianne Baxter",
+    "company": "ARTWORLDS",
+    "email": "julianne.baxter@artworlds.com",
+    "phone": 581748020
+  },
+  {
+    "_id": "6054e71dbc492dcb7ec673d6",
+    "id": 3,
+    "isActive": false,
+    "age": 24,
+    "name": {
+      "first": "April",
+      "last": "Crane"
+    },
+    "fullName": "April Crane",
+    "company": "RECOGNIA",
+    "email": "april.crane@recognia.me",
+    "phone": 587844329
+  },
+  {
+    "_id": "6054e71dcdd09d7bae0b24af",
+    "id": 4,
+    "isActive": true,
+    "age": 20,
+    "name": {
+      "first": "Evangeline",
+      "last": "Orr"
+    },
+    "fullName": "Evangeline Orr",
+    "company": "ISOLOGIA",
+    "email": "evangeline.orr@isologia.info",
+    "phone": 587149723
+  },
+  {
+    "_id": "6054e71d68cd768cffd70649",
+    "id": 5,
+    "isActive": false,
+    "age": 26,
+    "name": {
+      "first": "Adrian",
+      "last": "Park"
+    },
+    "fullName": "Adrian Park",
+    "company": "QUANTALIA",
+    "email": "adrian.park@quantalia.net",
+    "phone": 592351136
+  },
+  {
+    "_id": "6054e71d0db44f5d301e73db",
+    "id": 6,
+    "isActive": true,
+    "age": 31,
+    "name": {
+      "first": "Ebony",
+      "last": "Aguirre"
+    },
+    "fullName": "Ebony Aguirre",
+    "company": "QUONATA",
+    "email": "ebony.aguirre@quonata.biz",
+    "phone": 581354737
+  },
+  {
+    "_id": "6054e71dcf6b3f4e12f2caa9",
+    "id": 7,
+    "isActive": false,
+    "age": 36,
+    "name": {
+      "first": "Boyd",
+      "last": "Mcgee"
+    },
+    "fullName": "Boyd Mcgee",
+    "company": "GEEKULAR",
+    "email": "boyd.mcgee@geekular.org",
+    "phone": 586653530
+  },
+  {
+    "_id": "6054e71d18ea2c3e49dfe373",
+    "id": 8,
+    "isActive": true,
+    "age": 23,
+    "name": {
+      "first": "Emily",
+      "last": "Moses"
+    },
+    "fullName": "Emily Moses",
+    "company": "ROTODYNE",
+    "email": "emily.moses@rotodyne.name",
+    "phone": 598448136
+  },
+  {
+    "_id": "6054e71d58d6ae906c82bdd3",
+    "id": 9,
+    "isActive": true,
+    "age": 32,
+    "name": {
+      "first": "Buckner",
+      "last": "Harmon"
+    },
+    "fullName": "Buckner Harmon",
+    "company": "OCTOCORE",
+    "email": "buckner.harmon@octocore.biz",
+    "phone": 583440727
+  }
+]
+}
